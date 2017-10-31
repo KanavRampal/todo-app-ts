@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+}
+#header{
+  text-align: center;
+  color: white;
+}
+#inputTask{
+  text-align: center;
+}
+#inputDiv{
+  /*align-content: center;*/
+  /*align-items: center;*/
+  /*align-self: center;*/
+  text-align: center;
+}
+#inputTask{
+  color: blue;
+  text-align: center;
+}
+#TodoList{
+  text-align: center;
+  margin-top: 20px;
+}
